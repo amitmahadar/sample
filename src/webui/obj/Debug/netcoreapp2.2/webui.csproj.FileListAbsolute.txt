@@ -1,0 +1,14 @@
+D:\Amit\dotnet\azure\sample\src\webui\bin\Debug\netcoreapp2.2\webui.deps.json
+D:\Amit\dotnet\azure\sample\src\webui\bin\Debug\netcoreapp2.2\webui.runtimeconfig.json
+D:\Amit\dotnet\azure\sample\src\webui\bin\Debug\netcoreapp2.2\webui.runtimeconfig.dev.json
+D:\Amit\dotnet\azure\sample\src\webui\bin\Debug\netcoreapp2.2\webui.dll
+D:\Amit\dotnet\azure\sample\src\webui\bin\Debug\netcoreapp2.2\webui.pdb
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.csprojAssemblyReference.cache
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.csproj.CoreCompileInputs.cache
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.RazorAssemblyInfo.cache
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.RazorAssemblyInfo.cs
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.AssemblyInfoInputs.cache
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.AssemblyInfo.cs
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.RazorTargetAssemblyInfo.cache
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.dll
+D:\Amit\dotnet\azure\sample\src\webui\obj\Debug\netcoreapp2.2\webui.pdb
